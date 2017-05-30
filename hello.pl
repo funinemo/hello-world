@@ -8,5 +8,5 @@ for($i=0;$i<3;$i++)
 }
 
 my $s = "hello world";
-print length($s);
+print length($s),"\n";
 exit;
