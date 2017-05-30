@@ -2,7 +2,10 @@
 
 use strict;
 
-print "hello world\n";
+for($i=0;$i<3;$i++)
+{
+  print "hello world\n";
+}
 
 my $s = "hello world";
 print $s,"\n";
