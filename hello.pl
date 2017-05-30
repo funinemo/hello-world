@@ -5,5 +5,5 @@ use strict;
 print "hello world\n";
 
 my $s = "hello world";
-print $s;
+print length($s);
 exit;
